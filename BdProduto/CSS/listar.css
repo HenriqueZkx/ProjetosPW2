@@ -1,0 +1,21 @@
+body{
+    background-color: #ffa04a;
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    height: 45px;
+    width: 100px;
+    background: black;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #ffa04a;
+    font-weight: 600;
+}
